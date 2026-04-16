@@ -16,3 +16,11 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Dataset - too large for GitHub
+data/
+
+# Model files - can be large
+*.pkl
+*.h5
+*.joblib
