@@ -1,0 +1,11 @@
+data/
+lib/
+bin/
+share/
+include/
+pyvenv.cfg
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Untitled Folder/
