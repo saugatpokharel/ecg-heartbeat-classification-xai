@@ -12,6 +12,8 @@ __pycache__/
 
 # PyCharm
 .idea/
+*.iml
+
 
 # macOS
 .DS_Store
@@ -28,3 +30,11 @@ data/
 
 # Logs
 *.log
+
+
+# lib bin share from any environment
+lib/
+bin/
+share/
+include/
+pyvenv.cfg
