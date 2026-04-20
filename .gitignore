@@ -2,10 +2,6 @@
 venv/
 env/
 ecg_env/
-lib/
-bin/
-include/
-share/
 
 # Python cache
 __pycache__/
@@ -13,6 +9,9 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# PyCharm
+.idea/
 
 # macOS
 .DS_Store
@@ -24,3 +23,8 @@ data/
 *.pkl
 *.h5
 *.joblib
+*.pt
+*.pth
+
+# Logs
+*.log
