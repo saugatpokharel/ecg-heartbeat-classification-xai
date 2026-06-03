@@ -22,6 +22,9 @@ clinical decision support.
 - Interactive Streamlit web application with file upload support
 
 ## Project Structure
+## Project Structure
+
+```text
 ecg_project/
 ├── notebooks/
 │   ├── 01_data_loading.ipynb
@@ -38,7 +41,7 @@ ecg_project/
 │   ├── scaler.pkl
 │   └── feature_names.txt
 └── README.md
-
+```
 ## Results
 
 | Model         | Accuracy | Precision | Recall | F1 Score |
@@ -123,11 +126,11 @@ Open your browser at http://localhost:8501
 
 ## Author
 
-Saugat Pokharel
-BSc Computing(Final Year Project)
-Griffith College Cork
-Student Number: 3093315
-Supervisor: Atif Atif
+-Saugat Pokharel
+-BSc Computing(Final Year Project)
+-Griffith College Cork
+-Student Number: 3093315
+
 
 ## Acknowledgements
 
